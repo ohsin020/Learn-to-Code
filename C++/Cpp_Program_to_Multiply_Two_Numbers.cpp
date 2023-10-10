@@ -2,11 +2,11 @@
 using namespace std;
 
 int main() {
-  double num1, num2, product;
-  cout << "Enter two numbers: ";
+  double num1, num2,num3 product;
+  cout << "Enter three numbers: ";
 
   // stores two floating point numbers in num1 and num2 respectively
-  cin >> num1 >> num2;
+  cin >> num1 >> num2>>num3;
  
   // performs multiplication and stores the result in product variable
   product = num1 * num2;  
